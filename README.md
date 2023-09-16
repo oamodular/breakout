@@ -1,3 +1,5 @@
+*olivia artz modular is doing a riff on this without the 5v power indicator light, but with the addition of a mini-trs i2c socket on the front that can be routed to i2c modules in your case. our version is going to be called breakout. we plan on selling assembled ones fwiw*
+
 # USB Router
 ### A module to route a USB signal between the front and back of your Eurorack system with optional +5V rail power
 
